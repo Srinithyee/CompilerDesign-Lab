@@ -21,3 +21,6 @@ Ex 6: Implementation of Syntax CheckerAssignment
 
 
 Ex 7: Generation of Intermediate Code using Lex and YaccAssignment
+
+
+Ex 8: Code Optimization
